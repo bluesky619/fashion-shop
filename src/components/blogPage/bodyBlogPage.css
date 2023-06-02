@@ -1,0 +1,26 @@
+.breadcrumb__blog {
+    position: relative;
+}
+.breadcrumb__blog img {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+.breadcrumb__blog h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    font-weight: 600;
+}
+.blog__context {
+    padding-top: 100px;
+    padding-bottom: 70px;
+}
+.blog__content {
+    margin-bottom: 135px;
+}
+.blog__item {
+	margin-bottom: 30px !important;
+}

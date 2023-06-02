@@ -1,0 +1,69 @@
+{
+  "name": "fashion-shop",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.12.1",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "bootstrap": "^5.2.3",
+    "firebase": "^9.22.1",
+    "google-map-react": "^2.2.1",
+    "node-sass": "^7.0.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook": "^0.0.1",
+    "react-redux": "^8.0.7",
+    "react-router-dom": "^6.11.1",
+    "react-scripts": "5.0.1",
+    "react-simple-maps": "^3.0.0",
+    "react-slick": "^0.29.0",
+    "redux-thunk": "^2.4.2",
+    "router-dom": "^2.2.11",
+    "slick-carousel": "^1.8.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@iconify/react": "^4.1.0"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bluesky619/fashion-shop.git"
+  },
+  "author": "Nicky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluesky619/fashion-shop/issues"
+  },
+  "homepage": "https://github.com/bluesky619/fashion-shop#readme"
+}

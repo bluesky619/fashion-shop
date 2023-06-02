@@ -1,0 +1,64 @@
+.map iframe {
+	width: 100%;
+}
+.contact__text span {
+    text-transform: uppercase;
+    color: red;
+    font-size: 13px;
+    letter-spacing: 2px;
+    font-weight: 600;
+    
+}
+.column {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.contact__text h1 {
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+.contact__text {
+    margin-bottom: 35px;
+}
+.address__1 {
+    margin-bottom: 35px;
+}
+.address__1 h4 {
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+.address__1 p {
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+.address__1 span {
+    font-size: 16px;
+}
+.address__2 {
+    margin-bottom: 35px;
+}
+.address__2 h4 {
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+.address__2 p {
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+.address__2 span {
+    font-size: 16px;
+}
+.text__field__1 {
+    color: #b7b7b7;
+    width: 19vw;
+    border-color: #b7b7b7;
+}
+.btn__send__message {
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #ffffff;
+    background-color: #111111;
+    padding: 16px 35px;
+}

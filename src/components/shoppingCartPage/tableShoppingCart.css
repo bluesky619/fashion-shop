@@ -1,0 +1,49 @@
+.table__header {
+    font-size: 17px;
+    font-weight: 600 !important;
+}
+.table__image {
+    height: 90px;
+    width: 90px;
+
+}
+.table__name {
+    margin-left: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 17px;
+}
+.table__name span {
+    font-weight: 600;
+    margin-top: 5px;
+}
+
+.table__quantity {
+    font-size: 17px !important;
+    font-weight: 700 !important;   
+}
+.table__total {
+    font-size: 17px !important;
+    font-weight: 700 !important;   
+}
+.table__footer a {
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 2px;
+    font-size: 15px;
+    padding: 16px 40px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.table__footer__btn__left {
+    border: 1px solid #bcbcbc;
+    color: #111111;
+    margin-left: 25px;
+}
+.table__footer__btn__right {
+    border: 1px solid #ffffff;
+    color: #ffffff;
+    background-color: #111111;
+    margin-left: 200px;
+}
